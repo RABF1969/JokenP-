@@ -14,4 +14,4 @@ Esse foi mais um projeto que eu aprendi no <a href="https://rodolfomori.com.br/d
 
 <p>Projeto responsivo em telas de celulares.</p>
 
-<img width="700px" src="https://github.com/RABF1969/Conversor-de-moedas/blob/main/assets/JavaScript-Desafio1.png"/>
+<img width="700px" src="https://github.com/RABF1969/JokenP-/blob/main/img/jokenp%C3%B4.jpg"/>

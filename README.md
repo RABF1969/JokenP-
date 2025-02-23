@@ -4,7 +4,7 @@
 Esse foi mais um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub" target="_blank" rel="noopener noreferrer">DevClub</a>
 
 
-<a href="https://conversor-de-moedas-five-psi.vercel.app" target="_blank" rel="noopener noreferrer">Link do projeto</a>
+<a href="https://jokenpow.vercel.app/" target="_blank" rel="noopener noreferrer">Link do projeto</a>
 
 <h2>Tecnologias utilizadas</h2>
   
